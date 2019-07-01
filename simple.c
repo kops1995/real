@@ -7,6 +7,7 @@ int main(){
 	printf("My job is student\n");
 	printf("My age is 25\n");
 	printf("Welcome\n");
+	printf("Good!!\n");
 
 	return 0;
 }
